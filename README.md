@@ -10,3 +10,7 @@ Además me ha motivado a aprender:
  LADY_MIAUMIAU.
  [Ve a mi Instagram ](https://www.instagram.com/lady_miaumiau/ "instagram de la gatita")
  :smile:
+<<<<<<< HEAD
+=======
+ Deja un like si te ha gustado.
+>>>>>>> c31b322cc0cb6b0ce5156b2342c2c3d7d8aba7bc
